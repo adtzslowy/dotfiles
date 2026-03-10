@@ -4,6 +4,9 @@
     "window.menuBarVisibility": "hidden",
     "window.titleBarStyle": "custom",
 
+    "breadcrumbs.filePath": "last",
+    "breadcrumbs.enabled": true,
+
     "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
     "workbench.sideBar.location": "left",
